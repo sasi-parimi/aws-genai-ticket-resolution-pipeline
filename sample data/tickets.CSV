@@ -1,0 +1,6 @@
+ticket_id,issue_text
+101,Unable to download invoice
+102,OTP not received during login
+103,Payment deducted but order failed
+104,App crashes during checkout
+105,Shipment delayed by 5 days
